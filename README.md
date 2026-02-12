@@ -21,3 +21,5 @@ O script processa uma base de dados global e executa as seguintes etapas:
 
 ## 📈 Exemplo de Insight
 Durante a análise, observamos que países nórdicos mantêm uma média de adoção superior a 95%, servindo como benchmark global para serviços digitais.
+
+![Gráfico de Análise de ID Digital](myplot.png)
