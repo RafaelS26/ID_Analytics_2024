@@ -20,5 +20,5 @@ O script processa uma base de dados global e executa as seguintes etapas:
 * digital_id_final.csv: Base de dados tratada utilizada na análise.
 
 ## 📈 Exemplo de Insight
-Durante a análise, observamos que países nórdicos mantêm uma média de adoção superior a 95%, servindo como benchmark global para serviços digitais.
-
+A análise identificou que países nórdicos apresentam níveis de adoção superiores a 95%, consolidando-se como líderes globais em identidade digital. Esse padrão indica que políticas públicas consistentes, investimento em infraestrutura tecnológica e alta inclusão digital são fatores críticos para o sucesso da digitalização.
+Esses resultados podem servir como referência estratégica para países em estágio inicial de transformação digital, orientando decisões voltadas à expansão e modernização de serviços públicos digitais.
