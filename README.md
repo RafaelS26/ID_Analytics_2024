@@ -1,28 +1,17 @@
 # 📊 Análise Global de Identidade Digital 2024
 
-​📌Visão Geral
-​Breve descrição de uma ou duas frases sobre o objetivo do projeto.
-
-Exemplo: "Este projeto analisa os principais indicadores de [tema] para identificar tendências e fornecer insights estratégicos para a tomada de decisão."
+​📊 Análise Global de Identidade Digital 2024
+​📌 Visão Geral
+​Este projeto apresenta uma análise end-to-end sobre as tendências de Identidade Digital em 2024. O objetivo foi extrair, limpar e analisar dados globais para entender como diferentes regiões estão adotando tecnologias de identificação e quais os principais desafios de segurança.
 ​🛠️ Tecnologias e Ferramentas
 ​Linguagem: Python (Pandas, NumPy)
-​Banco de Dados: SQL (BigQuery / MySQL)
-​Visualização: Power BI 
-​Ambiente: VS Code
-
+​Banco de Dados: SQL (Scripts de consulta incluídos)
+​Visualização: Dashboards integrados e Gráficos em Python
+​Ambiente: Google Colab / VS Code
 ​📂 Estrutura do Repositório
-​data/: Bases de dados utilizadas (arquivos CSV).
-​notebooks/: Arquivos Jupyter Notebook com as análises detalhadas.
-​scripts/: Scripts Python para automação de limpeza e visualização.
-​visualizacoes/: Gráficos e dashboards gerados.
-
+​dados/: Bases de dados CSV utilizadas na análise.
+​roteiros/: Scripts Python e consultas SQL.
+​visualizações/: Gráficos gerados durante o processo exploratório.
 ​📈 Insights Principais
-​Descreva 2 ou 3 pontos importantes que você descobriu nos dados.
-​Insight 1: O fator X influenciou 20% do resultado final...
-​Insight 2: Observou-se um crescimento de Y no período de...
-​🚀 Como Executar
-​Clone o repositório.
-​Instale as dependências (se houver um arquivo requirements.txt).
-​Execute os notebooks na pasta notebooks/.
-​Dicas extras para brilhar:
-​Imagens: Se você tiver um print do seu dashboard no Power BI ou de um gráfico principal, você pode colar o arquivo na pasta visualizacoes e linkar aqui no README. Isso atrai muito a atenção.
+​Tendência Global: Houve um aumento significativo na adoção de IDs digitais em países em desenvolvimento, superando a média de crescimento de mercados maduros.
+​Segurança: A análise de correlação mostrou que regiões com maior investimento em infraestrutura de dados apresentam menores índices de falha em sistemas de autenticação.
