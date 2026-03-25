@@ -1,0 +1,56 @@
+country_code,country,region,income_group
+ARG,Argentina,Latin America & Caribbean,Upper middle income
+AUS,Australia,East Asia & Pacific,High income
+AUT,Austria,Europe & Central Asia,High income
+AZE,Azerbaijan,Europe & Central Asia,Upper middle income
+BHR,Bahrain,Middle East & North Africa,High income
+BEL,Belgium,Europe & Central Asia,High income
+BEN,Benin,Sub-Saharan Africa,Low income
+BRA,Brazil,Latin America & Caribbean,Upper middle income
+CAN,Canada,North America,High income
+CHL,Chile,Latin America & Caribbean,High income
+CHN,China,East Asia & Pacific,Upper middle income
+COL,Colombia,Latin America & Caribbean,Upper middle income
+CYP,Cyprus,Europe & Central Asia,High income
+CZE,Czechia,Europe & Central Asia,High income
+DNK,Denmark,Europe & Central Asia,High income
+SLV,El Salvador,Unknown,Unknown
+FIN,Finland,Europe & Central Asia,High income
+FRA,France,Europe & Central Asia,High income
+DEU,Germany,Europe & Central Asia,High income
+GRC,Greece,Europe & Central Asia,High income
+HKG,"Hong Kong SAR, China",East Asia & Pacific,High income
+HUN,Hungary,Europe & Central Asia,High income
+ISL,Iceland,Europe & Central Asia,High income
+IDN,Indonesia,East Asia & Pacific,Lower middle income
+IRL,Ireland,Europe & Central Asia,High income
+ITA,Italy,Europe & Central Asia,High income
+JPN,Japan,East Asia & Pacific,High income
+JOR,Jordan,Middle East & North Africa,Lower middle income
+KOR,"Korea, Rep.",East Asia & Pacific,High income
+KWT,Kuwait,Middle East & North Africa,High income
+KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income
+LVA,Latvia,Europe & Central Asia,High income
+MNG,Mongolia,East Asia & Pacific,Lower middle income
+MNE,Montenegro,Europe & Central Asia,Upper middle income
+MAR,Morocco,Middle East & North Africa,Lower middle income
+NLD,Netherlands,Europe & Central Asia,High income
+NZL,New Zealand,East Asia & Pacific,High income
+NOR,Norway,Europe & Central Asia,High income
+PAN,Panama,Latin America & Caribbean,Upper middle income
+PRY,Paraguay,Latin America & Caribbean,Upper middle income
+PER,Peru,Latin America & Caribbean,Upper middle income
+POL,Poland,Europe & Central Asia,High income
+PRT,Portugal,Europe & Central Asia,High income
+SAU,Saudi Arabia,Middle East & North Africa,High income
+SRB,Serbia,Europe & Central Asia,Upper middle income
+SGP,Singapore,East Asia & Pacific,High income
+SVN,Slovenia,Europe & Central Asia,High income
+SWE,Sweden,Europe & Central Asia,High income
+CHE,Switzerland,Europe & Central Asia,High income
+THA,Thailand,East Asia & Pacific,Upper middle income
+TUR,Turkiye,Europe & Central Asia,Upper middle income
+UKR,Ukraine,Unknown,Unknown
+USA,United States,North America,High income
+UZB,Uzbekistan,Unknown,Unknown
+VNM,Viet Nam,East Asia & Pacific,Lower middle income
